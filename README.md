@@ -1,6 +1,6 @@
 🏢 Business Operations AI Agent Suite
 🔗 Live Demo
-Click here to try the application
+https://app-7vzds68fv669.appmedo.com/
 
 📌 Overview
 This project is built under Category 2 – Business Operations and provides a suite of AI agents designed to streamline daily company workflows. The application is colorful, user‑friendly, and integrates multiple intelligent agents into a single dashboard.
